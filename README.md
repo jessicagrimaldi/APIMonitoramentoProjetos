@@ -16,8 +16,8 @@ Permitir controle dos projetos desenvolvidos pela empresa fictícia ExosAPI para
 
 ### Etapas de Desenvolvimento 
 
-- [x] Planejamento da Tarefa
-- [x] Criação do banco de dados;
+- [x] Planejamento da Tarefa (Clique [aqui](https://trello.com/b/QcnHXjAx/api-monitoramento) para visualizar o Trello)
+- [x] Criação do banco de dados; 
 - [x] Desenvolvimento da API com métodos Create, Post, Put e Delete
 - [ ] Implementação dos recursos de segurança
 - [ ] Deploy na Azure
