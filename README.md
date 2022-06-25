@@ -17,8 +17,8 @@ Permitir controle dos projetos desenvolvidos pela empresa fictícia ExosAPI para
 ### Etapas de Desenvolvimento 
 
 - [x] Planejamento da Tarefa
-- [x] Criação de banco de dados;
+- [x] Criação do banco de dados;
 - [x] Desenvolvimento da API com métodos Create, Post, Put e Delete
-- [ ] Implementação de recursos de segurança
+- [ ] Implementação dos recursos de segurança
 - [ ] Deploy na Azure
-- [ ] Disponibilização de documentação com instruções para utilização da API
+- [ ] Desenvolvimento de documentação com instruções para utilização da API
