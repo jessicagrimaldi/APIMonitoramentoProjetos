@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EPhVvANlAWBhiEcLFk12xw69F7KqRyNYAvWIr555a3A=",
+  "Source": "APIMonitoramento",
+  "BasePath": "_content/APIMonitoramento",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
